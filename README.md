@@ -1,4 +1,4 @@
-SQL Server Integration Services Dashboard v 0.6.8 Beta
+SQL Server Integration Services Dashboard v 0.6.9 Beta
 =========================================
 
 The purpose of this project is to provide a web-based, user-friendly, useful and nice looking SQL Server Integration Services Dashboard and a set of REST API to monitor execution of SQL Server Integration Services Packages.
