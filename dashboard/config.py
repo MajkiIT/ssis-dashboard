@@ -9,7 +9,7 @@ GOOGLE_ANALYTICS = None
 
 # Connection string to SSISDB
 CONNECTION_STRING = {
-                    "main": "DRIVER={ODBC Driver 17 for SQL Server};SERVER=localhost;DATABASE=SSISDB;UID=;PWD=",
+                    "main": "DRIVER={ODBC Driver 13 for SQL Server};SERVER=localhost;DATABASE=SSISDB;UID=;PWD=",
                     }
 
 # Set to 'NOW' to show current data or any valid date to show data for a fixed date only
